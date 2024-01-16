@@ -1,0 +1,18 @@
+                            Generic Data-Structure liabrary  (02 : 55 min)
+
+1. This project is developed using C++ programming.
+   This project contains all the implimentations of the functions from almost all data-structures.
+   
+2. As This liabrary contains the functions which are implimentated in generic manner we can 
+   use that functions with any type of data type.This liabrary is helpful for the application 
+   programmer how needs the implimentations of data structures in its application or project.
+
+3. In this project we provide the implimentations of singly linear linklist, Singly circular linklist,
+   Doubly linear linklist, Doubly circular linklist, Stack, Queue, Binary search tree, etc.
+
+4. For all this data structures we also provide some custome functionalitities which are not avalable 
+   in any inbuilt liabrary (Standard template liabrary, Collections).
+
+
+-------------------------------------------------------------------------------------------------------------
+
